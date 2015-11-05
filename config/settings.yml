@@ -1,0 +1,4 @@
+plugins:
+  wcr_site_url:
+    default: http://pressurewashingresource.com
+    client: true
